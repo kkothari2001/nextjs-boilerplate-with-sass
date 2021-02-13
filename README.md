@@ -1,4 +1,4 @@
-# Next JS starter boilerplate with Sass
+This repo was made using the "[Next JS starter boilerplate with Sass](https://github.com/kkothari2001/nextjs-boilerplate-with-sass)" repository by [kkothari](https://github.com/kkothari2001)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
